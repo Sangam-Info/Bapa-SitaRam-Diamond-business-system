@@ -1,0 +1,6 @@
+name = "bapa-sitaram-diamond"
+compatibility_date = "2026-10-01"
+
+# Static site — no Worker code. Serve everything inside the ./public folder.
+[assets]
+directory = "./public"
