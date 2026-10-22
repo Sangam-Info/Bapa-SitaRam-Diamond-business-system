@@ -1,6 +1,0 @@
-name = "bapa-sitaram-diamond"
-compatibility_date = "2026-10-01"
-
-# Static site — no Worker code, just serve the files in ./public
-[assets]
-directory = "./public"
